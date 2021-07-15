@@ -1,3 +1,13 @@
+# Python Version
+
+3.9.6
+
+# Executar projeto
+
+```
+make run
+```
+
 # Desafio programação - para vaga desenvolvedor
 
 Por favor leiam este documento do começo ao fim, com muita atenção.
